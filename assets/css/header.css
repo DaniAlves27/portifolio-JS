@@ -42,19 +42,19 @@ header{
 }
 
 .inf-pessoal .job::before{
-    background-image: url('/assets/img/carta.svg');
+    background-image: url('./assets/img/carta.svg');
 }
 
 .inf-pessoal .local::before{
-    background-image: url('/assets/img/local.svg');
+    background-image: url('./assets/img/local.svg');
 }
 
 .inf-pessoal .contato::before{
-    background-image: url('/assets/img/contato.svg');
+    background-image: url('./assets/img/contato.svg');
 }
 
 .inf-pessoal .email::before{
-    background-image: url('/assets/img/carta.svg');
+    background-image: url('./assets/img/carta.svg');
 }
 
 @media only screen and (min-width: 700px){
